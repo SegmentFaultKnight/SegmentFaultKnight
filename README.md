@@ -1,10 +1,8 @@
-    ### Olá, Jovem Gafanhoto! 👋
-
-### Me chamo Nathan
+### Olá, me chamo Nathan! 👋
 
 ![Nathan GitHub stats](https://github-readme-stats.vercel.app/api?username=SegmentFaultKnight&show_icons=true&theme=synthwave)
 
-### Tecnologias que uso no dia a dia
+### Essas são algumas tecnologias que uso:
 
 <div style="display: inline_block"><br/>
     <img align=center src=https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white/>
